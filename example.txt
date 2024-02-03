@@ -1,3 +1,8 @@
 hola
 hola 2
 hola 3
+
+
+/Users/juandiego9221/.ssh/id_ed25519_jdmm21.pub
+/Users/juandiego9221/.ssh/id_ed25519_diego.pub
+diego.mamanix001@gmail.com
