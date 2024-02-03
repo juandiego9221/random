@@ -8,6 +8,7 @@ int random_int(int max)
   return rand() % max;
 }
 
+// TODO: otro todo
 int main(int argc, char *argv[])
 {
   if (argc != 2) {
@@ -22,4 +23,7 @@ int main(int argc, char *argv[])
   printf("%d\n", result);
 
   return EXIT_SUCCESS;
+
 }
+
+// TODO - otro todo example
