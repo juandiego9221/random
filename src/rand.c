@@ -27,3 +27,7 @@ int main(int argc, char *argv[])
 }
 
 // TODO - otro todo example
+void init_rand(void)
+{
+  srand(time(NULL));
+}
